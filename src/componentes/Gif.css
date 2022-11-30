@@ -1,0 +1,32 @@
+.Gif {
+  border: 1px solid rgb(16, 15, 15);
+    border-radius : 6px;
+    display:inline-flex;
+    width : 600px;
+    height: 650px;
+    padding: 32px;
+    flex-direction: column;
+    margin-left: 54px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    color:#fff;
+    text-decoration: none;
+    object-position:center;
+    align-items: center;
+    text-align: center;
+}
+.gif h4 {
+    margin:0;
+}
+.gif img {   
+  object-fit: contain;
+}
+.cartas { 
+  background-color: rgb(182, 139, 139);
+  border: 1px solid rgb(20, 20, 20);
+  display: flex;
+  width : 60%;
+  padding: 32px;
+  flex-direction: column;
+  margin: 16px;
+}

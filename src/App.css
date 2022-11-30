@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+
+.App-content {
+  background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/fondos-para-paginas-web-profesionales-grandes-1024x643.jpg);
+  min-height: 50vh;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction:column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding:16px;
+}
+.button {
+  height: 200px;
+}
+.link{
+  color: white;
+}
+
